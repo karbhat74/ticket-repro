@@ -1,0 +1,5 @@
+﻿{
+  "name": "ticket-repro",
+  "private": true,
+  "scripts": { "test": "node src/add.test.js" }
+}
