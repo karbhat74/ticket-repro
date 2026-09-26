@@ -1,5 +1,0 @@
-{
-    "scripts": { 
-        "test": "node src/add.test.js" 
-    }
-}
